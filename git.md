@@ -38,3 +38,13 @@ The two following commands are equivalentes:
 git rm file
 rm file && git add file
 ```
+
+## remote 
+
+We can add remote repository with: 
+
+`git remote add <local-name> <url>`
+
+## rebase
+
+Rebase put a branch after other branch. 
