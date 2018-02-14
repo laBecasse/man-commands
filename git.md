@@ -19,6 +19,10 @@ The flag `--hard` is **dangerous** and delete modified files
 - `git checkout file` reset the staged file to the last commit and **delete the unstaged changes**.
 - `git checkout file commit` reset the staged file to `commit` and **delete the unstaged changes**.
 
+## branch 
+
+Create a branch on the current commit.
+
 ## diff 
 
 We use this command to see the changes between the actual directory and the last commit.
