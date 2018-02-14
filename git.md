@@ -47,4 +47,5 @@ We can add remote repository with:
 
 ## rebase
 
-Rebase put a branch after other branch. 
+Rebase put a branch after other branch. Be careful with it, if you rebase on a remote branch.
+
