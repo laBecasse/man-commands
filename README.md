@@ -2,7 +2,7 @@
 
 ## Les sorties
 
-Il existe deux sorties pour les scripts 
+Il existe deux sorties pour les scripts.
 
 1. **stdout** la sortie standard, à récupérer avec `>`
 2. **stderr** la sortie des erreurs, à récupérer avec `2>`
