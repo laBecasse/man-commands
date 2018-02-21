@@ -4,6 +4,3 @@
 * [Administration](administration.md)
 * [Git](git.md)
 
-
-
-
